@@ -1,0 +1,1 @@
+javascript:function%20kwt(u)%7Bvar%20s=document.createElement('script');s.setAttribute('language','JavaScript');s.setAttribute('src',u);document.body.appendChild(s);%7Dkwt('http://www.gleuch.com/code/KANYE-WEB-TOOLS/KANYEFY/KANYEFY.js');
